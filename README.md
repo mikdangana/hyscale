@@ -1,4 +1,4 @@
-# lstm_ekf
+# Hyscale - lstm_ekf
 
 This is a research project studying the use of machine learning to tune Kalman filters. A control system has been implemented using these tuned Kalman filters to demonstrate performance capability in a real world cloud environment. 
 
